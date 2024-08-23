@@ -1,0 +1,13 @@
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\ApiAlunoApplication.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\Controller\AlunoController.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\Controller\RequestController.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\dto\AlunoDto.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\dto\RequestDto.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\dto\ResponseDto.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\Entity\Aluno.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\Entity\Request.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\Enumeration\Status.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\Repository\AlunoRepository.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\Repository\RequestRepository.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\service\AlunoService.java
+C:\Projetos\api_aluno\src\main\java\com\api\api_aluno\domain\service\RequestService.java

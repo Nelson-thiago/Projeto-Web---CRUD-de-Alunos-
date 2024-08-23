@@ -1,0 +1,13 @@
+com\api\api_aluno\Controller\RequestController.class
+com\api\api_aluno\ApiAlunoApplication.class
+com\api\api_aluno\domain\Entity\Aluno.class
+com\api\api_aluno\domain\Entity\Request.class
+com\api\api_aluno\domain\Repository\RequestRepository.class
+com\api\api_aluno\domain\service\RequestService.class
+com\api\api_aluno\domain\dto\ResponseDto.class
+com\api\api_aluno\domain\dto\RequestDto.class
+com\api\api_aluno\domain\service\AlunoService.class
+com\api\api_aluno\domain\Enumeration\Status.class
+com\api\api_aluno\domain\dto\AlunoDto.class
+com\api\api_aluno\Controller\AlunoController.class
+com\api\api_aluno\domain\Repository\AlunoRepository.class
